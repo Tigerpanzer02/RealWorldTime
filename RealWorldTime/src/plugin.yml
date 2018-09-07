@@ -1,0 +1,7 @@
+name: RealWorldTime
+author: Tigerpanzer (SpigotMC Tigerkatze) [CC-SW Network]
+main: at.tigerpanzer.Main
+version: 0.0.0PRE
+description:
+commands:
+  realworldtime:

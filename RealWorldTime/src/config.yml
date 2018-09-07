@@ -1,0 +1,25 @@
+#Alle Consolen-Nachrichten
+Console:
+  PrefixConsole: '&7[&eRealWorldTime&7]'
+  newupdatebconrl: 'Neue Version verfügbar! Downloade sie dir auf SpigotMC!'
+#Nachrichten - Command RealWorldTime
+Help:
+  HelpText:
+    - ''
+    - '&e--------- &7[&aHILFE &7| &eRealWorldTime&7]&e ---------'
+    - '&e|  '
+    - '&e|  &7/&erealworldtime'
+    - '&e|    &c->  &7Übersicht'
+    - '&e|  '
+    - '&e|  &7/&erealworldtime &areloadconfig'
+    - '&e|    &c->  &7Lade deine Config neu'
+    - '&e|  '
+    - '&e--------- &7[&aHILFE &7| &eRealWorldTime&7]&e ---------'
+    - ''
+  OutConfigCreate: 'Eine Config wurde im Plugin-Ordner erstellt!'
+  OutConfigLoad: 'Die Einstellungen aus der Config wurden erfolgreich geladen!'
+#Allgemeine Nachrichten
+Prefix: '&7[&eRealWorldTime&7] &7»&e '
+Permissionfail: '&cDafür hast du keine Rechte'
+TargetFalse: '&cDer Spieler ist momentan &enicht online &coder wurde &efalsch geschrieben'
+NoPlayer: 'Du bist kein Spieler'
